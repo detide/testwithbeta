@@ -1,10 +1,10 @@
 # Flashing Heart
 
-![Agent building a tower](/static/githubpic/https___for.edu.sg_1wildlife.png)
 ## Introduction @unplugged
 
 Learn how to use the LEDs and make a flashing heart! 
 (Want to learn how lights work? [Watch this video](https://youtu.be/qqBmvHD5bCw)).
+![Agent building a tower](/static/githubpic/https___for.edu.sg_1wildlife.png)
 
 
 ![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
