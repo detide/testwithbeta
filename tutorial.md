@@ -2,17 +2,23 @@
 
 ## Step 1
 
-```blocks
-basic.forever(function () {
-    basic.showIcon(IconNames.Heart)
-})
-```
+## Step 2
 
-## Answer
+Place another ``||basic:show leds||`` block. You can leave it blank and draw what you want.
 
 ```blocks
-basic.forever(function () {
-    basic.showIcon(IconNames.Heart)
-    basic.showIcon(IconNames.SmallHeart)
+basic.forever(function() {
+    basic.showLeds(`
+        . # . # .
+        # # # # #
+        # # # # #
+        . # # # .
+        . . # . .`);
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .`);
 })
 ```
