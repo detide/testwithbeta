@@ -1,5 +1,6 @@
 # Flashing Heart
 
+![Agent building a tower](/static/githubpic/https___for.edu.sg_1wildlife.png)
 ## Introduction @unplugged
 
 Learn how to use the LEDs and make a flashing heart! 
