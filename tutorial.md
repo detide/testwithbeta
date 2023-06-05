@@ -1,4 +1,13 @@
 # tutorial
+
+## Step 1
+
+```blocks
+basic.forever(function () {
+    basic.showIcon(IconNames.Heart)
+})
+```
+
 ## Answer
 
 ```blocks
