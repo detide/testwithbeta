@@ -7,13 +7,12 @@ Learn how to use the LEDs and make a flashing heart!
 ![Agent building a tower](/static/githubpic/https___for.edu.sg_1wildlife.png)
 
 
-![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
+![Heart shape in the LEDs](/static/githubpic/https___for.edu.sg_1wildlife.png)
 
 ## Step 1 @fullscreen
 
 Place the ``||basic:show leds||`` block in the ``||basic:forever||`` block and draw a heart.
 
-![An animation that shows how to drag a block and paint a heart](/static/mb/projects/flashing-heart/showleds.gif)
 
 ## Step 2
 
