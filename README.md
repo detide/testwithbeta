@@ -17,8 +17,12 @@ If you want to display your tutorial step in a dialog and then have it skip to t
 
 ## 4 show hint  @showhint
 
-- :blank: whats the diff between fullscreen and showhint?
+- :blank: whats the diff between fullscreen and showhint? <br>
 - :mouse pointer: test? 
+and you got it
+line 3
+line 4
+
 
 ```blocks
 basic.forever(function() {
@@ -30,10 +34,12 @@ basic.forever(function() {
         . . # . .`);
 })
 ```
-~hint This content is hidden until the user clicks here.
-  - :blank: Bullet 1
-  - :mouse pointer: Bullet 2
-hint~
+### ~hint
+
+#### Hint Title
+[heyhey]
+heyheyheyh
+### ~
 
 ## 5 boardname? show normal code
 
