@@ -1,5 +1,13 @@
 # TEST 
 
+### @explicitHints true
+
+### ~button /#tutorial:/tutorials/collect-the-clovers
+
+Try this tutorial!
+
+### ~
+
 ## 1 Unlugged test @unplugged
 (This is how you insert link to  [words](https://youtu.be/qqBmvHD5bCw)).
 ![This is how you insert image with resizing properties]<img src="https://raw.githubusercontent.com/detide/testwithbeta/master/githubpic/https___for.edu.sg_1wildlife.png" width="300">
@@ -7,7 +15,7 @@
 ## 2 fullscreen test @fullscreen
 
 secondary button ``||basic:show leds||``
-primary button ``|input.onGesture:Shake|`` 
+primary button ``|input:Shake|`` 
 seems like primary button is purple?
 
 ## 3 Showdialog test @showdialog
