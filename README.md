@@ -1,9 +1,7 @@
 # TEST 
 
-### @explicitHints true
 
-### ~button /#tutorial:/tutorials/collect-the-clovers
-
+### ~button /#tutorial:github:detide/testwithbeta/README
 Try this tutorial!
 
 ### ~
