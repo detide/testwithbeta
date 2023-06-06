@@ -1,7 +1,7 @@
 # TEST 
 
 
-### ~button /#tutorial:github:detide/testwithbeta/README
+### ~button /#tutorial:/github:detide/testwithbeta/README
 Try this tutorial!
 
 ### ~
