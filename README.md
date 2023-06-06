@@ -15,10 +15,6 @@ secondary button ``||basic:show leds||``
 primary button ``|input.onGesture:Shake|`` 
 seems like primary button is purple?
 
-``` blocks
-~hint~This block adds two numbers together.~hint~
-basic.showNumber(2 + 3)
-```
 
 ## 4 show hint  @showhint
 
@@ -61,10 +57,10 @@ To add a sound effect to your project, follow these steps:
 1. Drag and drop the "play sound" block from the "Sounds" category.
 2. Choose the desired sound from the options.
 
-~hint~
+~hint
 > You can explore different sound options, such as "pop," "bell," or "fanfare."
 > Experiment with different sounds to find the one you like best!
-~hint~
+hint~
 
 3. Connect the "play sound" block to a trigger, such as a button press or a certain event.
 4. Test your project by running it on your target device.
