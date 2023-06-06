@@ -10,7 +10,9 @@ secondary button ``||basic:show leds||``
 primary button ``|input.onGesture:Shake|`` 
 seems like primary button is purple?
 
-# 3 Showdialog test @showdialog
+## 3 Showdialog test @showdialog
+
+#title ?
 Can't find the difference between unlugged and showdialog yet <br>
 If you want to display your tutorial step in a dialog and then have it skip to the next step automatically, use showdialog. This feature is typically used for introductory steps
 ![This is how you insert image with resizing properties]<img src="https://raw.githubusercontent.com/detide/testwithbeta/master/githubpic/https___for.edu.sg_1wildlife.png" width="300">
@@ -18,11 +20,17 @@ If you want to display your tutorial step in a dialog and then have it skip to t
 ## 4 show hint  @showhint
 
 - :blank: whats the diff between fullscreen and showhint? <br>
-- :mouse pointer: test? 
-and you got it
-line 3
-line 4
+- :mouse pointer: test? <br>
+and you got it<br>
+line 3<br>
+line 4<br>
 
+### ~hint
+
+#### Hint Title
+[heyhey]
+heyheyheyh
+### ~
 
 ```blocks
 basic.forever(function() {
@@ -34,12 +42,7 @@ basic.forever(function() {
         . . # . .`);
 })
 ```
-### ~hint
 
-#### Hint Title
-[heyhey]
-heyheyheyh
-### ~
 
 ## 5 boardname? show normal code
 
