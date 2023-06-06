@@ -17,7 +17,8 @@ If you want to display your tutorial step in a dialog and then have it skip to t
 
 ## 4 show hint  @showhint
 
-whats the diff between fullscreen and showhint?
+:blank: whats the diff between fullscreen and showhint?
+:mouse pointer: test? 
 
 ```blocks
 basic.forever(function() {
