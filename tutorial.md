@@ -1,11 +1,5 @@
 # TEST 
 
-
-### ~button /#tutorial:/github:detide/testwithbeta/README
-Try this tutorial!
-
-### ~
-
 ## 1 Unlugged test @unplugged
 (This is how you insert link to  [words](https://youtu.be/qqBmvHD5bCw)). <br>
 ![This is how you insert image with resizing properties]<br>
