@@ -8,7 +8,8 @@ Try this tutorial!
 
 ## 1 Unlugged test @unplugged
 (This is how you insert link to  [words](https://youtu.be/qqBmvHD5bCw)). <br>
-![This is how you insert image with resizing properties]<img src="https://raw.githubusercontent.com/detide/testwithbeta/master/githubpic/https___for.edu.sg_1wildlife.png" width="300">
+![This is how you insert image with resizing properties]<br>
+<img src="https://raw.githubusercontent.com/detide/testwithbeta/master/githubpic/https___for.edu.sg_1wildlife.png" width="300">
 
 ## 2 fullscreen test @fullscreen
 
